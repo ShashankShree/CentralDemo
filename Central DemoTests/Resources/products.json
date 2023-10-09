@@ -1,0 +1,458 @@
+{
+    "products": [
+        {
+            "name": "Washed Jersey Stitch Polo Shirt ABE04A1S ",
+            "price": 490,
+            "discount_percentage": 10,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/26/51/7/MUJI-WashedJerseyStitchPoloShirtABE04A1S-MJT51326517-1.jpg",
+            "color_shads": [
+                "brown"
+            ],
+            "sizes": [
+                "xs",
+                "s",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "promotion": "Buy 2 Get 1",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "Washed Jersey Stitch Polo Shirt ABE04A1S C80",
+            "price": "1350",
+            "discount_percentage": 10,
+            "image_url": null,
+            "color_shades": [
+                "red"
+            ],
+            "sizes": [
+                "xs",
+                "s",
+                "M"
+            ],
+            "brand_name": "BSC",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "Washed Jersey Stitch Polo Shirt ABE04A1S PR 4",
+            "price": 1150,
+            "discount_percentage": 71.391304347826,
+            "image_url": "https://aem-uat.central.co.th/adobe/dynamicmedia/deliver/dm-aid--58c4a914-e4da-485b-a76f-45f6f9bf76ce/angelkids-ชุดนอนเสื้อแขนยาวลายปลาpr4-cds32276565-1.jpg",
+            "color_shades": [
+                "black",
+                "#00FF00"
+            ],
+            "sizes": [
+                "M",
+                "L"
+            ],
+            "brand_name": "ANGEL KIDS",
+            "stock": {
+                "is_in_stock": false
+            }
+        },
+        {
+            "name": "SLUB FR SLEEVE NECK SS T SHIRT",
+            "price": 350,
+            "discount_percentage": 5,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/41/77/0/MUJI-SlubFrSleeveNeckSsTeeBBA15A1S-MJT51341770-1.jpg",
+            "color_shades": null,
+            "sizes": [
+                34,
+                36
+            ],
+            "brand_name": "MUJI",
+            "promotion": "Buy 1 Get 1",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT POPLIN SHORT PANTS",
+            "price": 490,
+            "discount_percentage": 40,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/40/86/5/MUJI-CottonPoplinShortPantsAED14A1S-MJT51340865-1.jpg",
+            "color_shades": [
+                "#00FF00"
+            ],
+            "sizes": null,
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "CT PIQUE POLO SHIRT",
+            "price": 490,
+            "discount_percentage": 3,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/26/74/6/MUJI-WashedPiqueSSPoloShirtABE02A1S-MJT51326746-1.jpg",
+            "color_shades": [
+                "#808080",
+                "#008000"
+            ],
+            "sizes": null,
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "ID CT PRINT TEE GIANT PANDA 2",
+            "price": 190,
+            "discount_percentage": 7,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/59/12/6/MUJI-CottonPrintTeeCCG01A1S-MJT51359126-1.jpg",
+            "color_shades": [
+                "white"
+            ],
+            "sizes": [
+                "L",
+                "XL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "NO STAIN FRAISE CREW SS TEE",
+            "price": 350,
+            "discount_percentage": 8,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/05/25/3/MUJI-Anti-sweatstainCrewneckTeeBBA03A1S-MJT51305253-1.jpg",
+            "color_shades": [],
+            "sizes": [],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "CT JERSEY POLO SHIRT",
+            "price": 490,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/26/49/4/MUJI-WashedJerseyStitchPoloShirtABE04A1S-MJT51326494-1.jpg",
+            "color_shades": [
+                "brown"
+            ],
+            "sizes": [
+                "XL",
+                "XXL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT JERSEY CREW SS TEE BOR",
+            "price": 290,
+            "discount_percentage": 30,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/56/81/4/MUJI-CottonJerseyStripeCrewNeckSSTeeBBB01A0A-MJT51256814-1.jpg",
+            "color_shades": [
+                "#0000FF"
+            ],
+            "sizes": [
+                "xs",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "UPF50 WATER REPEL WIND BREAKER",
+            "price": "690",
+            "discount_percentage": 20,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/49/51/6/MUJI-WaterRepellentWindBreakerADK07A1S-MJT51349516-1.jpg",
+            "color_shades": [
+                "#000080"
+            ],
+            "sizes": [
+                30,
+                36
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "SUN PROTECT ZIP UP HOODY",
+            "price": 690,
+            "discount_percentage": 10,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/24/36/0/MUJI-SunProtectZipuphoodyABR04A1S-MJT51324360-1.jpg",
+            "color_shades": "yellow",
+            "sizes": [
+                "xs",
+                "s",
+                "M",
+                "L",
+                "XL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT JERSEY CREW NECK SS TEE",
+            "price": 290,
+            "discount_percentage": 90,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/56/19/7/MUJI-CottonJerseyCrewNeckSsTeeBBA01A0A-MJT51256197-1.jpg",
+            "color_shades": [
+                "green"
+            ],
+            "sizes": [
+                "xs",
+                "s",
+                "M",
+                "L",
+                "XL",
+                "XXL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "WIDE COUNT DROP  TEE 3/4 PANEL",
+            "price": 990,
+            "discount_percentage": 74.747474747475,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/11/79/21/2/MUJI-WideCountDropTee34BBL05A0S-MJT51179212-1.jpg",
+            "color_shades": "#000080",
+            "sizes": [
+                "L",
+                "XL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "CT PIQUE SS POLO SHIRT BOR",
+            "price": 490,
+            "discount_percentage": 87,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/26/21/0/MUJI-WashedPiqueBorderSSPoloShirtABF01A1S-MJT51326210-1.jpg",
+            "color_shades": "white",
+            "sizes": [
+                28,
+                40
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT JERSEY BOR SS T SHIRT",
+            "price": 150,
+            "discount_percentage": 45,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/17/64/5/MUJI-CottonJerseySsTeeCCF02A1S-MJT51317645-1.jpg",
+            "color_shades": [
+                "navy"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": false
+            }
+        },
+        {
+            "name": "LOOSE TWIST PRINT G PANDA LS",
+            "price": 490,
+            "discount_percentage": 10,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/82/07/3/MUJI-LoosetwistjerseyPrintLSTEECCD31A0A-MJT51282073-1.jpg",
+            "color_shades": "grey",
+            "sizes": [
+                44
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "WIDE COUNT DROP TEE 3/4 STRIPE",
+            "price": 990,
+            "discount_percentage": 74.747474747475,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/55/83/1/MUJI-WideCountDropTee34BBL05A0A-MJT51255831-1.jpg",
+            "color_shades": "Navy",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "WIDE COUNT DROP TEE 3/4 STRIPE",
+            "price": 990,
+            "discount_percentage": 15,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/55/82/4/MUJI-WideCountDropTee34BBL04A0A-MJT51255824-1.jpg",
+            "color_shades": "Navy",
+            "sizes": [
+                40
+            ],
+            "brand_name": "MUJI",
+            "promotion": "Buy 3 Get 1",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT JERSEY BOR SS T SHIRT",
+            "price": 150,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/67/66/7/MUJI-CottonJerseyCrewNeckTeeCBF02A0AGrey-MJT51267667-1.jpg",
+            "color_shades": "blue",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "ID CT PRINT TEE SLOTH",
+            "price": 190,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/62/21/1/MUJI-CottonJerseyPrintTeeCBF51A0AGrey-MJT51262211-1.jpg",
+            "color_shades": "red",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "QUICK DRY UV PROTECT SS TEE",
+            "price": 390,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/76/39/3/MUJI-Quick-DryShortSleeveTeeBBR04A0A-MJT51276393-1.jpg",
+            "color_shades": "Grey",
+            "sizes": [
+                "L",
+                "XL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "XJCT WASHED OX STDCOLLAR SHIRT",
+            "price": 690,
+            "discount_percentage": 10,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/46/85/3/MUJI-CottonOxfordStandCollarShirtACA04A0A-MJT51246853-1.jpg",
+            "color_shades": "black",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "FRENCH TERRY  LONG PANTS",
+            "price": 490,
+            "discount_percentage": 5,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/59/44/0/MUJI-FrenchTerryLongpantsFBE50A0A-MJT51259440-1.jpg",
+            "color_shades": "black",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "FR LINEN 34 SLEEVE SHIRT",
+            "price": 790,
+            "discount_percentage": 3,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/18/24/6/MUJI-LinenButtonDown34SleeveShirtACE30-MJT51318246-1.jpg",
+            "color_shades": "navy",
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "XJCT BROAD STAND COLLAR SHIRT",
+            "price": 690,
+            "discount_percentage": 2,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/46/87/7/MUJI-CottonOxfordStandCollarShirtACA09A0A-MJT51246877-1.jpg",
+            "color_shades": "red",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "IND CT JERSEY BOR SS T SHIRT",
+            "price": 150,
+            "discount_percentage": 12,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/13/16/84/6/MUJI-CottonJerseySsTeeCBF02A1S-MJT51316846-1.jpg",
+            "color_shades": "grey",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "CT RAYON DOLMAN SLEEVE SWEATER",
+            "price": 1390,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/49/52/6/MUJI-CottonRayonDolmanSleeveSweaterBAH81A0A-MJT51249526-1.jpg",
+            "color_shades": "black",
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ],
+            "promotion": "Buy 5 Get 1",
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        },
+        {
+            "name": "SLUB FR SLEEVE NECK SS T SHIRT",
+            "price": 350,
+            "discount_percentage": 14,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/12/49/12/0/MUJI-SlubJerseyFrenchSleeveT-ShirtBBA15A0A-MJT51249120-1.jpg",
+            "color_shades": [
+                "green"
+            ],
+            "sizes": [
+                "XXL",
+                "XXXL"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": false
+            }
+        },
+        {
+            "name": "XLONG CT BROAD STDCOLLAR SHIRT",
+            "price": 690,
+            "discount_percentage": 0,
+            "image_url": "https://aem-uat.central.co.th/content/dam/central/catalog/products/retail/MJ/t5/11/87/63/7/MUJI-CottonBroadStandCollarShirtACA10A0S-MJT51187637-1.jpg",
+            "color_shades": [
+                "white"
+            ],
+            "sizes": [
+                "xs"
+            ],
+            "brand_name": "MUJI",
+            "stock": {
+                "is_in_stock": true
+            }
+        }
+    ]
+}
